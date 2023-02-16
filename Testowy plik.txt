@@ -11,3 +11,7 @@ Google
 - 3
 - f
 s
+
+public void przypomnijhasło(){
+ System.out.println("Kliknij by zresetować");
+}
